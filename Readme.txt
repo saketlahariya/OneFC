@@ -8,10 +8,13 @@ Solution :
 
 language used  : Python
 Libraries : csv,json
+version : 3.8
 
 Script : csv_to_json.py
 csvFile : data.csv
 josnFile : data.json
+
+usage : python3.8 csv_to_json.py
 
 1. loading csv file and excluding headers  .
 2. changing floor_level type from string to int
