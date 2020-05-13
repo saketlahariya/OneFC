@@ -1,0 +1,31 @@
+CREATE TABLE events
+   ( id int
+   , event_name varchar(200), people_count  int
+   );
+
+    Insert into events values (
+ 1,'event_1',30);
+
+Insert into events values
+ (2,'event_2',129);
+
+Insert into events values(
+ 3,'event_3',140);
+
+Insert into events values(
+ 4,'event_4',240);
+
+Insert into events values(
+ 5,'event_5',93);
+
+Insert into events values(
+ 6,'event_6',125);
+
+Insert into events values(
+ 7,'event_7',1755);
+
+Insert into events values
+(8,'event_8',399);
+
+Insert into events values(
+ 9,'event_9',788);
